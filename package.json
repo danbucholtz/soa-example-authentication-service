@@ -16,9 +16,11 @@
     "passport-local": "*",
     "q": "1.0.1",
     "soa-example-core-service": "git://github.com/danbucholtz/soa-example-core-service",
-    "soa-example-service-config": "git://github.com/danbucholtz/soa-example-service-config",
     "soa-example-core-utils": "git://github.com/danbucholtz/soa-example-core-utils",
+    "soa-example-logging-service-api" : "git://github.com/danbucholtz/soa-example-logging-service-api",
+    "soa-example-service-config": "git://github.com/danbucholtz/soa-example-service-config",
     "soa-example-user-service-api": "git://github.com/danbucholtz/soa-example-user-service-api"
+
   },
   "main": "server.js",
   "author": "Dan Bucholtz"
