@@ -20,7 +20,6 @@
     "soa-example-logging-service-api" : "git://github.com/danbucholtz/soa-example-logging-service-api",
     "soa-example-service-config": "git://github.com/danbucholtz/soa-example-service-config",
     "soa-example-user-service-api": "git://github.com/danbucholtz/soa-example-user-service-api"
-
   },
   "main": "server.js",
   "author": "Dan Bucholtz"
